@@ -40,13 +40,11 @@ Le projet illustre les concepts fondamentaux du formalisme DEVS :
 DEVS-Traffic-Light/
 ├── README.md                              # Ce fichier
 ├── docs/
-│   ├── Projet_DEVS.pdf                   # Présentation Beamer du projet
+│   ├── Présentation_DEVS_Traffic_Light.pdf                   # Présentation Beamer du projet
 │   └── DEVS_Formalism_Slides.html        # Slides de cours complets (33 slides)
 ├── models/
 │   ├── traffic_light_simple.slx          # Modèle Simulink feu simple
 │   └── traffic_light_with_pedestrian.slx      # Modèle Simulink feu + piéton
-├── results/
-│   └── simulation_outputs/               # Fichiers de résultats
 ```
 
 ---
