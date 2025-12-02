@@ -1,0 +1,2 @@
+# DISCRETE-EVENT-SYSTEM-SPECIFICATION-MODELING-AND-SIMULATION--Traffic-Light
+Simulation d'un feu tricolore basé sur le formalisme DEVS (Discrete Event System Specification). Deux modèles: feu tricolore simple (autonome) et feu tricolore avec passage piéton. Implémentation en MATLAB/Simulink. Illustre les concepts clés: modèles atomiques, transitions internes/externes, fonction d'avance temporelle, et hiérarchie modulaire.
