@@ -3,7 +3,7 @@
 **Modélisation et simulation d'un feu tricolore utilisant le formalisme DEVS (Discrete Event System Specification) avec MATLAB/Simulink**
 
 ![DEVS](https://img.shields.io/badge/DEVS-Formal%20Specification-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-R2021b+-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2025a+-orange)
 ![Simulink](https://img.shields.io/badge/Simulink-Stateflow-red)
 
 ---
