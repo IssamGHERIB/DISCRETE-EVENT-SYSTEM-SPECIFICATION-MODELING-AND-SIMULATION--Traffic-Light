@@ -45,6 +45,7 @@ DEVS-Traffic-Light/
 ├── models/
 │   ├── traffic_light_simple.slx          # Modèle Simulink feu simple
 │   └── traffic_light_with_pedestrian.slx      # Modèle Simulink feu + piéton
+├── references/        #Ressources
 ```
 
 ---
